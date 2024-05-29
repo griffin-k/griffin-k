@@ -5,10 +5,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/griffin-k/griffin-k/main/banner.png" alt="Hello">
 </div>
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
     <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
+</p> -->
 
 ## About me
 👋 Hello! I'm Karimullah, a passionate 3rd-year BSCS student at Lahore Garrison University. 💻 I wear multiple hats as an Android developer, skilled in crafting native mobile apps, and a web developer, specializing in React to build dynamic web experiences. 🌐 Recently, I've dived into Python and Django, adding versatile tools to my toolkit. Currently, I'm exploring the fascinating world of neural networks, reinforcement learning, robotics, machine learning, and artificial intelligence.
