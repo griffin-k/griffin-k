@@ -2,8 +2,9 @@
 
 <!--<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">-->
 
-<img  align="center" src="https://raw.githubusercontent.com/griffin-k/griffin-k/main/banner.png" alt="Hello">
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/griffin-k/griffin-k/main/banner.png" alt="Hello">
+</div>
 <p align="center"> 
   Visitor count<br>
     <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
