@@ -18,7 +18,7 @@
     "Machine Learning 🦾",
     "Robotics 🤖",
     "Open Source"
-    "LangChain
+    "LangChain"
   ]
 }
 ```
@@ -28,5 +28,4 @@
 
 - Let's connect on [Instagram](https://www.instagram.com/griffin___3).
 - Read my tech articles on [Medium](https://medium.com/@griffin-k).
-- Connect with me on [LinkedIn]().
 - And of course, we're already on GitHub (Recursion).
